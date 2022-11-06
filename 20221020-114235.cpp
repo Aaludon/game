@@ -51,7 +51,7 @@ void display ()
                 question("'.MOV' extension refers usually to what kind of file?", "Image file", "Animation/movie file","Audio file","Ms office document", 'b');
                          break;
                      case 2 :
-                             question(" http://www.brss.com - is an example of what? ", "A url", "A server","A directory","An access code",'b');
+                             question(" http://www.brss.com - is an example of what? ", "A url", "A server","A directory","An access code",'a');
                              break;
                          case 3 :
                                  question(" How many bits is a byte? ", "4", "8","16","32",'b');
